@@ -1,0 +1,70 @@
+Name	Origin	Tissue	Cancer or normal
+AF22	Skin	Brain	Normal
+GAMG		Brain	Cancer
+SH-SY5Y	Bone marrow	Brain	Cancer
+U-251 MG	Brain	Brain	Cancer
+U-138 MG	Brain	Brain	Cancer
+U-87 MG	Brain	Brain	Cancer
+hTCEpi	Cornea	Eye	Normal
+hTERT-RPE1	"Retina, eye"	Eye	Normal
+OE19	Esophagus	Proximal digestive tract	Cancer
+CACO-2	Colon	Gastrointestinal tract	Cancer
+Hep G2	Liver	Liver	Cancer
+CAPAN-2	Pancreas	Pancreatic	Cancer
+NTERA-2		Kidney and urinary bladder	Cancer
+RT4	Urinary bladder	Kidney and urinary bladder	Cancer
+RPTEC TERT1	Human kidney cortex	Kidney and urinary bladder	Normal
+HEK 293	Embryonal kidney	Kidney and urinary bladder	Normal
+SuSa	Testis	Male reproductive system	Cancer
+PC-3	Bone marrow	Male reproductive system	Cancer
+WM-115	Skin	Skin	Cancer
+A-431	Skin	Skin	Cancer
+HaCaT	Skin	Skin	Normal
+SK-MEL-30	Subcutis	Skin	Cancer
+SCLC-21H	Pleural effusion	Lung	Cancer
+A549	Lung	Lung	Cancer
+HBEC3-KT	Central lung bronchiole	Lung	Normal
+MCF7	Pleural effusion	Female reproductive system	Cancer
+T-47d	Mammary gland; derived from metastatic site: pleural effusion	Female reproductive system	Cancer
+SK-BR-3	Pleural effusion	Female reproductive system	Cancer
+BEWO	Brain	Female reproductive system	Cancer
+EFO-21	Ascites	Female reproductive system	Cancer
+AN3-CA	Lymph node	Female reproductive system	Cancer
+HeLa	Cervix	Female reproductive system	Cancer
+SiHa	Cervix	Female reproductive system	Cancer
+hTERT-HME1	Mammary gland	Female reproductive system	Normal
+HUVEC TERT2	Umbilical vein	Endothelial	Normal
+hTEC/SVTERT24-B	Thymus	Endothelial	Normal
+TIME	Skin	Endothelial	Normal
+HSkMC	Trapezius and erector spinae muscles	Muscle	Normal
+BJ hTERT+ SV40 Large T+ RasG12V	Foreskin	Mesenchymal	Normal
+ASC TERT1	Adipose tissue	Mesenchymal	Normal
+BJ	Foreskin	Mesenchymal	Normal
+fHDF/TERT166	Foreskin	Mesenchymal	Normal
+HBF TERT88	Brain	Mesenchymal	Normal
+U-2 OS	Bone	Mesenchymal	Cancer
+HHSteC	Liver	Mesenchymal	Normal
+U-2197	Subcutis	Mesenchymal	Cancer
+ASC diff	Adipose tissue	Mesenchymal	Normal
+BJ hTERT+	Foreskin	Mesenchymal	Normal
+BJ hTERT+ SV40 Large T+	Foreskin	Mesenchymal	Normal
+LHCN-M2	Satellite cells (from pectoralis major muscle)	Mesenchymal	Normal
+RH-30	Bone marrow	Mesenchymal	Cancer
+U-698	Tonsil	Lymphoid	Cancer
+HDLM-2	Pleural effusion	Lymphoid	Cancer
+JURKAT	Peripheral blood	Lymphoid	Cancer
+REH	Peripheral blood	Lymphoid	Cancer
+U-266/84	Peripheral blood	Lymphoid	Cancer
+U-266/70	Peripheral blood	Lymphoid	Cancer
+RPMI-8226	Peripheral blood	Lymphoid	Cancer
+MOLT-4	Peripheral blood	Lymphoid	Cancer
+Karpas-707	Bone marrow and peripheral blood	Lymphoid	Cancer
+Daudi	Orbital biopsy	Lymphoid	Cancer
+HEL	Peripheral blood	Myeloid	Cancer
+U-937	Pleural effusion	Myeloid	Cancer
+HMC-1	Peripheral blood	Myeloid	Cancer
+HL-60	Peripheral blood	Myeloid	Cancer
+THP-1	Peripheral blood	Myeloid	Cancer
+NB-4	Bone marrow	Myeloid	Cancer
+K-562	Pleural effusion	Myeloid	Cancer
+HAP1	Leukemia	Myeloid	Cancer
